@@ -1,0 +1,53 @@
+
+ @media screen {
+ .bgT{
+width:100%; height:200px;
+background:royalblue;
+position: relative;
+top: 0px;}
+ .bgC{
+    width:100%; height:2000px;
+    background:lightskyblue;}
+ .bgB{
+     width:100%; height:300px;
+background:royalblue;
+position: relative;
+bottom: 0px;}
+ .button{
+position:relative; top: 400px;}
+ .fontL{font-size: 40px;
+font-family:'Segoe UI','Open Sans',sans-serif;
+     color: tomato;}
+ a:hover{ color:rgb(255, 0, 0);}
+ .gif{
+    width:700px; height:700px;
+    background-image: url(12.gif);
+    background-size: 700px 700px;
+    background-repeat: no-repeat;
+    border: black 10px solid;
+    position: relative; top: 300px;}
+ .top{width:100%; height:300px;
+    background:royalblue;
+    position: relative;top: 0px;}
+ .bgColor{width:100%; height:2000px;
+     background-color: lightskyblue;}
+ .vid{position: relative; top: 300px;}
+ .bottom{width:100%; height:300px;
+    background:royalblue;
+   position: relative;
+bottom: 0px;}
+.cute{width: 200px; height: 200px;
+background-image: url(cute.png);
+background-size: 200px;
+position: relative;
+bottom: 850px;
+right: 340px;}
+ .text{
+font-size: 80px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+position:relative;
+bottom: 1000px;
+left: 250px;
+display: inline-block;}
+*{margin: 0;}
+}
